@@ -10,3 +10,5 @@ this is another change
 
 3. this is changed in conflict branch
 4. anther line in conflict branch
+
+this is changed for rebase
