@@ -11,4 +11,8 @@ this is another change
 3. this is changed in conflict branch
 4. anther line in conflict branch
 
+<<<<<<< HEAD
 this is changed for rebase
+=======
+random thing
+>>>>>>> test rebase
