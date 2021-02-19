@@ -12,3 +12,7 @@ this is another change
 4. anther line in conflict branch
 
 this is changed for rebase
+
+,,,
+test
+'''
